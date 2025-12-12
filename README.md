@@ -4,10 +4,7 @@ A clean, modern, and responsive web application that converts typed text into sp
 Users can enter any text, select from available system voices, and listen instantly with a single click.
 
 <h2>🔗 Live Demo</h2>
-
-(Add your GitHub Pages link here)
-Example:
-👉 https://yourusername.github.io/TextToSpeechConvertor/
+👉 https://jayesh-04.github.io/Text-To-Speech-Converter/
 
 <h2>🧾 Project Overview</h2>
 
